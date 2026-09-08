@@ -6,8 +6,7 @@ Based in Faisalabad, Pakistan
 I design and ship agentic AI systems — RAG pipelines, voice agents, and automated workflows — using modern AI-native tooling instead of hand-rolled everything.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Abubaker-Autonomix&label=Profile%20Views&color=4FD1C5&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Abubaker-Autonomix?label=Followers&style=flat&color=4FD1C5" alt="GitHub Followers" />
+  <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-000000?style=flat&logo=briefcase&logoColor=white" alt="Techo Solution" /></a>
   <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/Fiverr-Level%202-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr Level 2" /></a>
   <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a>
 </p>
@@ -15,7 +14,7 @@ I design and ship agentic AI systems — RAG pipelines, voice agents, and automa
 <p>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -24,8 +23,9 @@ I design and ship agentic AI systems — RAG pipelines, voice agents, and automa
 
 I'm an Agentic AI developer specializing in building production-grade LLM applications: RAG pipelines, voice AI agents, chatbot automation, and n8n-driven workflow automation. I work end-to-end — backend architecture, vector retrieval, deployment, and AI-assisted frontend generation.
 
-- Trained through Panaversity/PIAIC's **AI Agent Factory** curriculum
+- Trained through [Panaversity/PIAIC](https://www.piaic.org/)'s **AI Agent Factory** curriculum
 - Building **Autonomix** — a freelance practice focused on Agentic AI for SMBs and international clients
+- Working with **Techo Solution**, building agentic AI systems for the agency
 - Active on **Fiverr** (`abubaker5431`) and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
 - Ship fast using AI-native IDEs and agentic coding tools rather than traditional dev cycles
 
@@ -70,7 +70,13 @@ I don't just prompt-engineer — I architect systems: retrieval pipelines that d
 
 **Automation**
 
-<p> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" /> </p>
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
 
 **Frontend & Infra**
 
@@ -89,6 +95,9 @@ I don't just prompt-engineer — I architect systems: retrieval pipelines that d
 
 **CiteSource** — RAG citation engine (flagship project)
 End-to-end retrieval system with citation grounding, tuned match thresholds, deployed on Railway, frontend via Lovable.
+
+**TransportMS** — Transport management platform for Pakistani cargo businesses
+Bilingual (Urdu/English, RTL) SaaS product with an n8n content pipeline that scrapes real pain points and generates scored, refined marketing content via LLM agents.
 
 **OpsBridge** — Multi-store e-commerce operations platform
 Four-role system (Management / Agent / Supplier / Client) with relay-based communication workflows, built as a clickable prototype via Antigravity.
