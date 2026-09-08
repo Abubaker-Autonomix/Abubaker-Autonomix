@@ -25,8 +25,8 @@ I'm an Agentic AI developer specializing in building production-grade LLM applic
 
 - Trained through [Panaversity/PIAIC](https://www.piaic.org/)'s **AI Agent Factory** curriculum
 - Building **Autonomix** — a freelance practice focused on Agentic AI for SMBs and international clients
-- Working with **Techo Solution**, building agentic AI systems for the agency
-- Active on **Fiverr** (`abubaker5431`) and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
+- Working with ** <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-000000?style=flat&logo=briefcase&logoColor=white" alt="Techo Solution" /></a>**, building agentic AI systems for the agency
+- Active on **Fiverr** and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
 - Ship fast using AI-native IDEs and agentic coding tools rather than traditional dev cycles
 
 I don't just prompt-engineer — I architect systems: retrieval pipelines that don't hallucinate, agents that fail gracefully, and workflows that survive real-world data.
