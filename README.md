@@ -6,7 +6,6 @@ Based in Faisalabad, Pakistan
 I design and ship agentic AI systems — RAG pipelines, voice agents, and automated workflows — using modern AI-native tooling instead of hand-rolled everything.
 
 <p>
-  <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-000000?style=flat&logo=briefcase&logoColor=white" alt="Techo Solution" /></a>
   <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/Fiverr-Level%202-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr Level 2" /></a>
   <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a>
 </p>
@@ -25,7 +24,7 @@ I'm an Agentic AI developer specializing in building production-grade LLM applic
 
 - Trained through [Panaversity/PIAIC](https://www.piaic.org/)'s **AI Agent Factory** curriculum
 - Building **Autonomix** — a freelance practice focused on Agentic AI for SMBs and international clients
-- Working with ** <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-000000?style=flat&logo=briefcase&logoColor=white" alt="Techo Solution" /></a>**, building agentic AI systems for the agency
+- Working with  <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-000000?style=flat&logo=briefcase&logoColor=white" alt="Techo Solution" /></a>, building agentic AI systems for the agency
 - Active on **Fiverr** and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
 - Ship fast using AI-native IDEs and agentic coding tools rather than traditional dev cycles
 
