@@ -11,7 +11,7 @@ I design and ship agentic AI systems — RAG pipelines, voice agents, and automa
 </p>
 
 <p>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+ <a href="mailto:abubakermaqsood.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
@@ -22,7 +22,7 @@ I design and ship agentic AI systems — RAG pipelines, voice agents, and automa
 
 I'm an Agentic AI developer specializing in building production-grade LLM applications: RAG pipelines, voice AI agents, chatbot automation, and n8n-driven workflow automation. I work end-to-end — backend architecture, vector retrieval, deployment, and AI-assisted frontend generation.
 
-- Trained through [Panaversity/PIAIC](https://www.piaic.org/)'s **AI Agent Factory** curriculum
+-  Trained through [Panaversity/PIAIC](https://www.piaic.org/)'s **AI Agent Factory** curriculum
 - Building **Autonomix** — a freelance practice focused on Agentic AI for SMBs and international clients
 - Working with  <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-000000?style=flat&logo=briefcase&logoColor=white" alt="Techo Solution" /></a>, building agentic AI systems for the agency
 - Active on **Fiverr** and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
