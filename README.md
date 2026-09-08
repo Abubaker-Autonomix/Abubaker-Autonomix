@@ -95,9 +95,6 @@ I don't just prompt-engineer — I architect systems: retrieval pipelines that d
 **CiteSource** — RAG citation engine (flagship project)
 End-to-end retrieval system with citation grounding, tuned match thresholds, deployed on Railway, frontend via Lovable.
 
-**TransportMS** — Transport management platform for Pakistani cargo businesses
-Bilingual (Urdu/English, RTL) SaaS product with an n8n content pipeline that scrapes real pain points and generates scored, refined marketing content via LLM agents.
-
 **OpsBridge** — Multi-store e-commerce operations platform
 Four-role system (Management / Agent / Supplier / Client) with relay-based communication workflows, built as a clickable prototype via Antigravity.
 
@@ -109,7 +106,7 @@ Four-role system (Management / Agent / Supplier / Client) with relay-based commu
 ## Current Focus
 
 - Growing **Autonomix** into a recognized Agentic AI freelance brand
-- Converting proof-of-work projects (CiteSource, TransportMS, OpsBridge) into client-facing case studies
+- Converting proof-of-work projects (techo Digital FTE , OpsBridge) into client-facing case studies
 - Deepening expertise in multi-agent orchestration and production RAG evaluation
 - Exploring underserved automation niches in the Pakistani market
 
