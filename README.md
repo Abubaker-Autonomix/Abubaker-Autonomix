@@ -71,11 +71,7 @@ I don't just prompt-engineer — I architect systems: retrieval pipelines that d
 
 **Automation**
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>
+<p> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" /> </p>
 
 **Frontend & Infra**
 
