@@ -1,240 +1,121 @@
-# Hi, I'm Abubaker Maqsood
+# Hi, I'm Abubaker 👋
 
-### Agentic AI Developer | AI Automation | Prompt Engineering | Full-Stack AI
+**Freelance Agentic AI Developer & LLM Engineer — Autonomix**
+Based in Faisalabad, Pakistan
 
-I design and build intelligent AI systems that combine autonomous agents, LLMs,
-RAG, automation, APIs, and modern full-stack technologies to solve real-world
-problems.
+I design and ship agentic AI systems — RAG pipelines, voice agents, and automated workflows — using modern AI-native tooling instead of hand-rolled everything.
 
-> **From intelligent agents to automated business workflows, I build AI systems
-> that can understand, reason, retrieve, decide, and execute.**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abubaker-Autonomix&label=Profile%20Views&color=4FD1C5&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Abubaker-Autonomix?label=Followers&style=flat&color=4FD1C5" alt="GitHub Followers" />
+  <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/Fiverr-Level%202-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr Level 2" /></a>
+  <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a>
+</p>
+
+<p>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 ## About Me
 
-I'm an **Agentic AI Developer** focused on building practical, production-oriented
-AI applications and automation systems.
+I'm an Agentic AI developer specializing in building production-grade LLM applications: RAG pipelines, voice AI agents, chatbot automation, and n8n-driven workflow automation. I work end-to-end — backend architecture, vector retrieval, deployment, and AI-assisted frontend generation.
 
-My work sits at the intersection of:
+- Trained through Panaversity/PIAIC's **AI Agent Factory** curriculum
+- Building **Autonomix** — a freelance practice focused on Agentic AI for SMBs and international clients
+- Active on **Fiverr** (`abubaker5431`) and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
+- Ship fast using AI-native IDEs and agentic coding tools rather than traditional dev cycles
 
-- Artificial Intelligence
-- Agentic Systems
-- LLM Applications
-- AI Automation
-- RAG & Knowledge Systems
-- Full-Stack Development
-- API & Workflow Engineering
-
-I focus on turning AI capabilities into **usable systems, products, and
-automated workflows** rather than isolated experiments.
+I don't just prompt-engineer — I architect systems: retrieval pipelines that don't hallucinate, agents that fail gracefully, and workflows that survive real-world data.
 
 ---
 
-# What I Build
+## What I Build
 
-I design and build intelligent systems that combine reasoning, retrieval,
-automation, APIs, databases, and modern application architectures.
-
-## 🤖 Agentic AI Systems
-
-- Autonomous AI agents capable of reasoning, planning, and executing tasks
-- Multi-agent architectures with specialized agents
-- Tool-using agents connected to APIs, databases, and external services
-- Stateful AI workflows with memory and contextual awareness
-- Human-in-the-loop systems for approvals and critical decisions
-- Agent orchestration and task delegation
-- Goal-driven autonomous workflows
-
-## 🧠 LLM & Generative AI Applications
-
-- LLM-powered applications and intelligent assistants
-- AI copilots for business and productivity workflows
-- Prompt engineering and context engineering
-- Structured AI outputs and function calling
-- Tool-calling and API-driven AI workflows
-- AI-powered decision and recommendation systems
-- Custom AI assistants for specialized use cases
-
-## 📚 RAG & Knowledge Systems
-
-- Production-oriented Retrieval-Augmented Generation systems
-- Document ingestion and knowledge extraction
-- Semantic search and vector-based retrieval
-- Context-aware knowledge assistants
-- Enterprise knowledge bases
-- Source-grounded AI responses
-- Document-based question answering
-- Retrieval and context optimization
-
-## ⚙️ AI Automation & Workflow Engineering
-
-- End-to-end AI automation pipelines
-- n8n-based intelligent workflows
-- Event-driven automation systems
-- API-to-API workflow integrations
-- AI-powered classification and data processing
-- Automated content generation and analysis
-- Human approval and feedback loops
-- Multi-step AI workflows combining models, APIs, and databases
-
-## 💬 Conversational & Voice AI
-
-- AI chatbots for websites and business platforms
-- WhatsApp AI assistants
-- Voice AI agents
-- Conversational AI interfaces
-- AI-powered FAQ systems
-- Customer-support automation
-- Appointment and receptionist automation
-- Speech-to-text and text-to-speech integrations
-
-## 🏗️ AI Backend & Infrastructure
-
-- FastAPI-based AI backends
-- AI service architectures
-- LLM orchestration layers
-- PostgreSQL-powered AI applications
-- Vector search infrastructure
-- Authentication and API integrations
-- Background processing systems
-- Cloud-ready AI architectures
-
-## 🌐 Full-Stack AI Applications
-
-- AI-powered SaaS applications
-- Next.js and React interfaces for AI systems
-- Real-time AI chat applications
-- AI dashboards and control panels
-- Modern responsive interfaces
-- API-driven frontend and backend architectures
-- AI products with complete application workflows
-
-## 🔌 AI Integrations
-
-- LLM API integrations
-- WhatsApp and communication APIs
-- Third-party SaaS integrations
-- Database integrations
-- Cloud service integrations
-- Webhooks and event-driven systems
-- Custom API-based AI pipelines
-- Automation platform integrations
-
-## 📊 Intelligent Business Systems
-
-- AI-powered customer support
-- Lead qualification and routing
-- Document and data processing
-- Internal knowledge assistants
-- Business process automation
-- AI-assisted reporting
-- Workflow optimization
-- Operational intelligence systems
-
-## 🔐 Production & Reliability
-
-- Structured outputs and validation
-- Error handling and fallback workflows
-- Logging and observability
-- Secure API integrations
-- Scalable application architecture
-- Cost-aware LLM workflows
-- AI evaluation and testing
-- Continuous workflow improvement
+| Area | Capabilities |
+|---|---|
+| **RAG & Retrieval** | Ingestion pipelines, chunking strategies, pgvector/embeddings, citation-grounded retrieval, threshold tuning |
+| **Voice AI Agents** | Real-time speech pipelines, telephony integration, latency-optimized conversational agents |
+| **Agentic Systems** | Multi-agent orchestration, tool use, memory, planning, human-in-the-loop approval flows |
+| **Workflow Automation** | n8n pipelines — scraping, LLM scoring/refinement loops, multi-agent content pipelines |
+| **Full-Stack AI Apps** | FastAPI backends, LangChain/LangGraph agents, AI-generated frontends, Railway deployment |
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### AI & LLM
+**AI / Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" alt="LangGraph" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" alt="pgvector" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 
-### Automation
+**Agentic Coding Tools**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=flat" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat" alt="Cursor" />
+<img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Lovable-FF6154?style=flat" alt="Lovable" />
 
-### Frontend
+**Automation**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
 
-### Backend
+**Frontend & Infra**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-# Featured Projects
-
-### 🤖 AI WhatsApp Chatbot
-
-AI-powered conversational system designed for automated customer interaction,
-FAQ handling, voice capabilities, and appointment workflows.
-
-**Focus:**  
-`LLMs` `Voice AI` `WhatsApp` `FastAPI` `Automation`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 
 ---
 
-### 🧠 RAG-Based Chatbot
+## Selected Work
 
-Knowledge-based AI assistant using Retrieval-Augmented Generation to provide
-context-aware responses from custom data sources.
+**CiteSource** — RAG citation engine (flagship project)
+End-to-end retrieval system with citation grounding, tuned match thresholds, deployed on Railway, frontend via Lovable.
 
-**Focus:**  
-`RAG` `LLMs` `Vector Search` `Python`
+**TransportMS** — Transport management platform for Pakistani cargo businesses
+Bilingual (Urdu/English, RTL) SaaS product with an n8n content pipeline that scrapes real pain points and generates scored, refined marketing content via LLM agents.
 
----
+**OpsBridge** — Multi-store e-commerce operations platform
+Four-role system (Management / Agent / Supplier / Client) with relay-based communication workflows, built as a clickable prototype via Antigravity.
 
-### ⚙️ AI Automation Systems
-
-Intelligent automation workflows combining AI models, APIs, databases, and
-business processes.
-
-**Focus:**  
-`n8n` `AI Agents` `APIs` `Workflow Automation`
+**Techo Digital FTE** — Agentic "Digital Full-Time Employee" system
+12-module architecture with an approval-first safety model and human-in-the-loop orchestration, built for Techo Solution.
 
 ---
 
-# Current Focus
+## Current Focus
 
-I'm currently focused on advancing my work in:
-
-- Agentic AI
-- Autonomous Agents
-- Multi-Agent Systems
-- AI Automation
-- RAG Architecture
-- LLM Applications
-- Voice AI
-- AI SaaS Products
-- Intelligent Business Systems
-- Production AI Architecture
+- Growing **Autonomix** into a recognized Agentic AI freelance brand
+- Converting proof-of-work projects (CiteSource, TransportMS, OpsBridge) into client-facing case studies
+- Deepening expertise in multi-agent orchestration and production RAG evaluation
+- Exploring underserved automation niches in the Pakistani market
 
 ---
 
-# Development Philosophy
+## Let's Work Together
 
-```text
-Build systems, not just prompts.
-Automate workflows, not just tasks.
-Design agents, not just chatbots.
-Solve problems, not just generate outputs.
+I work with founders, agencies, and teams that need a reliable Agentic AI partner for:
+
+- RAG pipelines and knowledge retrieval systems
+- Voice AI agents and conversational automation
+- n8n workflow automation
+- Full-stack AI application development
+
+**Fiverr:** abubaker5431 · **Upwork:** Top-rated profile
+
+*Build with agents. Ship with intent.*
