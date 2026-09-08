@@ -16,7 +16,7 @@ I design and ship agentic AI systems — RAG pipelines, voice agents, and automa
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
