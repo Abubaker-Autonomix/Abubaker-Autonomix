@@ -1,5 +1,4 @@
-<div align="center">
-Hi, I'm Abubaker Maqsood 👋
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1224,100:4FD1C5&height=160&section=header&text=Hi,%20I'm%20Abubaker%20Maqsood&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 Agentic AI Developer & LLM Engineer at Autonomix
 
