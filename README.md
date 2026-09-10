@@ -1,6 +1,6 @@
 <div align="center">
-Hi, I'm Abubaker Maqsood 👋
-Agentic AI Developer & LLM Engineer — Autonomix
+Hi, I'm <b>Abubaker Maqsood</b> 👋
+<b>Agentic AI Developer & LLM Engineer — Autonomix</b>
 
 Building RAG pipelines, voice agents, automation systems & advanced custom software — LangGraph orchestration, graph architecture engineering, and evaluation harnesses
 
