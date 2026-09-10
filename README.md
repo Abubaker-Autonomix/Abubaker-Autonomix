@@ -1,22 +1,10 @@
-# Hi, I'm Abubaker 👋
+<div align="center">
+Hi, I'm Abubaker Maqsood 👋
+Agentic AI Developer & LLM Engineer — Autonomix
 
-**Freelance Agentic AI Developer & LLM Engineer — Autonomix**
-Based in Faisalabad, Pakistan
+Building RAG pipelines, voice agents, automation systems & advanced custom software — LangGraph orchestration, graph architecture engineering, and evaluation harnesses
 
-I design and ship agentic AI systems — RAG pipelines, voice agents, and automated workflows — using modern AI-native tooling instead of hand-rolled everything.
-
-<p>
-  <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/Fiverr-Level%202-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr Level 2" /></a>
-  <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a>
-</p>
-
-<p>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abubakermaqsood.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
+<br/> <p> <img src="https://img.shields.io/badge/PAKISTAN-2b2b2b?style=for-the-badge" alt="Pakistan" /> <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/TECHO%20SOLUTION-0d1224?style=for-the-badge" alt="Techo Solution" /></a> <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/FIVERR-LEVEL%202%20SELLER-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Level 2" /></a> <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/UPWORK-TOP%20RATED-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a> </p> <p> <a href="https://www.piaic.org/"><img src="https://img.shields.io/badge/PIAIC-1F4E8C?style=for-the-badge" alt="PIAIC" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abubakermaqsood.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p> </div>
 
 ## About Me
 
