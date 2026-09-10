@@ -1,12 +1,13 @@
 <div align="center">
 Hi, I'm Abubaker Maqsood 👋
 Agentic AI Developer & LLM Engineer at Autonomix
-
 RAG Pipelines · Voice AI Agents · LangGraph Orchestration · Automation Systems
 
 I turn complex business logic into clean, production-ready agentic AI systems.
 
 <br/> <p> <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-0d1224?style=flat" alt="Techo Solution" /></a> <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/Fiverr-Level%202%20Seller-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr Level 2" /></a> <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=flat&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a> </p> <p> <a href="https://www.piaic.org/"><img src="https://img.shields.io/badge/PIAIC-1F4E8C?style=flat" alt="PIAIC" /></a> <a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abubakermaqsood.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> </p> </div>
+
+
 ## About Me
 
 I'm an Agentic AI developer specializing in building production-grade LLM applications: RAG pipelines, voice AI agents, chatbot automation, and n8n-driven workflow automation. I work end-to-end — backend architecture, vector retrieval, deployment, and AI-assisted frontend generation.
