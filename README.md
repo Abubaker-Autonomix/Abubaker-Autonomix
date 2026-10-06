@@ -1,43 +1,128 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:4A1420&height=160&section=header&text=Hi,%20I'm%20Abubaker%20Maqsood&fontSize=42&fontColor=F5EFE6&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:4A1420&height=170&section=header&text=ABUBAKER%20MAQSOOD&fontSize=48&fontColor=F5EFE6&fontAlignY=42&animation=fadeIn" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=F5EFE6&center=true&vCenter=true&width=900&height=90&lines=Agentic+AI+Developer+%26+LLM+Engineer+at+Autonomix;RAG+Pipelines+%C2%B7+Voice+AI+Agents+%C2%B7+LangGraph+Orchestration;I+turn+complex+business+logic+into+clean+systems." alt="Typing SVG" />
-<br/>
+</div>
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+# ABUBAKER MAQSOOD
+
+**Agentic AI Developer & Builder**
+
+<img src="https://img.shields.io/badge/BUILD%20WITH%20AGENTS-800020?style=for-the-badge" alt="Build with agents" /> <img src="https://img.shields.io/badge/SHIP%20WITH%20INTENT-F5EFE6?style=for-the-badge" alt="Ship with intent" />
+
+Building production-grade LLM systems — retrieval pipelines that don't hallucinate, agents that fail gracefully, workflows that survive real-world data.
+
+📍 Pakistan · 🌐 Working with clients worldwide
+
 <p>
 <a href="https://techosolution.com/"><img src="https://img.shields.io/badge/Techo%20Solution-800020?style=flat&logo=briefcase&logoColor=F5EFE6" alt="Techo Solution" /></a>
 <a href="https://www.fiverr.com/abubaker5431"><img src="https://img.shields.io/badge/Fiverr-Level%202%20Seller-800020?style=flat&logo=fiverr&logoColor=F5EFE6" alt="Fiverr Level 2" /></a>
 <a href="https://www.upwork.com/freelancers/~017c871e4793213e63"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-800020?style=flat&logo=upwork&logoColor=F5EFE6" alt="Upwork Top Rated" /></a>
 </p>
-<p>
-<a href="https://www.piaic.org/"><img src="https://img.shields.io/badge/PIAIC-F5EFE6?style=flat&logoColor=800020" alt="PIAIC" /></a>
-<a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-F5EFE6?style=flat&logo=github&logoColor=800020" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-F5EFE6?style=flat&logo=linkedin&logoColor=800020" alt="LinkedIn" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abubakermaqsood.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-800020?style=flat&logo=gmail&logoColor=F5EFE6" alt="Email" /></a>
+
+</td>
+<td width="32%" align="center" valign="middle">
+<img src="https://avatars.githubusercontent.com/u/237020024?v=4" width="190" alt="Abubaker Maqsood" />
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=58&text=AGENTS.%20BUILT%20DIFFERENT.&fontSize=22&fontColor=F5EFE6" width="100%"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/01-ARCHITECT-800020?style=for-the-badge" alt="01 Architect" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/02-ORCHESTRATE-4A1420?style=for-the-badge" alt="02 Orchestrate" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/03-SHIP-800020?style=for-the-badge" alt="03 Ship" />
 </p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>🏗️ ARCHITECT</b><br/>
+<sub>Retrieval pipelines that don't hallucinate — chunking, embeddings, citation-grounded answers.</sub>
+</td>
+<td align="center" width="33%">
+<b>🕸️ ORCHESTRATE</b><br/>
+<sub>Multi-agent systems with memory, planning, and human-in-the-loop approval flows.</sub>
+</td>
+<td align="center" width="34%">
+<b>🚀 SHIP</b><br/>
+<sub>Fast, production-grade builds — FastAPI backends, Railway deploys, AI-native speed.</sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 RAG & Retrieval**
+<sub>From raw data to grounded, cited answers.</sub>
+
+**🎙️ Voice AI Agents**
+<sub>Real-time speech pipelines, telephony-ready.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Workflow Automation**
+<sub>n8n pipelines — scraping, LLM scoring, content loops.</sub>
+
+**🧑‍🏫 Community Building**
+<sub>Training the next wave through PIAIC / Panaversity.</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=58&text=FEATURED%20PROJECTS&fontSize=22&fontColor=F5EFE6" width="100%"/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔍 CiteSource
+<sub>Flagship RAG citation engine</sub>
+
+End-to-end retrieval with citation grounding, tuned match thresholds, Railway deploy, Lovable frontend.
+
+<img src="https://img.shields.io/badge/RAG-800020?style=flat" alt="RAG" /> <img src="https://img.shields.io/badge/pgvector-4A1420?style=flat" alt="pgvector" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🌉 OpsBridge
+<sub>Multi-store e-commerce ops platform</sub>
+
+Four-role system (Management / Agent / Supplier / Client) with relay-based communication workflows.
+
+<img src="https://img.shields.io/badge/Agents-800020?style=flat" alt="Agents" /> <img src="https://img.shields.io/badge/Prototype-4A1420?style=flat" alt="Prototype" />
+
+</td>
+<td width="34%" valign="top">
+
+### 🏢 Techo Digital FTE
+<sub>Agentic "Digital Full-Time Employee"</sub>
+
+12-module architecture with approval-first safety model and human-in-the-loop orchestration.
+
+<img src="https://img.shields.io/badge/LangGraph-800020?style=flat" alt="LangGraph" /> <img src="https://img.shields.io/badge/HITL-4A1420?style=flat" alt="HITL" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=58&text=REAL%20WORK.%20REAL%20IMPACT.&fontSize=22&fontColor=F5EFE6" width="100%"/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abubaker-Autonomix&show_icons=true&title_color=F5EFE6&icon_color=C9A96A&text_color=D6C9B8&bg_color=2A1218&border_color=800020" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubaker-Autonomix&layout=compact&title_color=F5EFE6&text_color=D6C9B8&bg_color=2A1218&border_color=800020" height="165"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=About%20Me&fontSize=22&fontColor=F5EFE6" width="100%"/>
-
-I'm an Agentic AI developer specializing in building production-grade LLM applications: RAG pipelines, voice AI agents, chatbot automation, and n8n-driven workflow automation. I work end-to-end — backend architecture, vector retrieval, deployment, and AI-assisted frontend generation.
-
-- 🎓 Trained through [Panaversity/PIAIC](https://www.piaic.org/)'s **AI Agent Factory** curriculum
-- 🚀 Building **Autonomix** — a freelance practice focused on Agentic AI for SMBs and international clients
-- 🏢 Working with **Techo Solution**, building agentic AI systems for the agency
-- ⭐ Active on **Fiverr** and **Upwork**, delivering RAG chatbots, voice agents, and automation systems
-- ⚡ Ship fast using AI-native IDEs and agentic coding tools rather than traditional dev cycles
-
-> I don't just prompt-engineer — I architect systems: retrieval pipelines that don't hallucinate, agents that fail gracefully, and workflows that survive real-world data.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=What%20I%20Build&fontSize=22&fontColor=F5EFE6" width="100%"/>
-
-| Area | Capabilities |
-|---|---|
-| **RAG & Retrieval** | Ingestion pipelines, chunking strategies, pgvector/embeddings, citation-grounded retrieval, threshold tuning |
-| **Voice AI Agents** | Real-time speech pipelines, telephony integration, latency-optimized conversational agents |
-| **Agentic Systems** | Multi-agent orchestration, tool use, memory, planning, human-in-the-loop approval flows |
-| **Workflow Automation** | n8n pipelines — scraping, LLM scoring/refinement loops, multi-agent content pipelines |
-| **Full-Stack AI Apps** | FastAPI backends, LangChain/LangGraph agents, AI-generated frontends, Railway deployment |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=Tech%20Stack&fontSize=22&fontColor=F5EFE6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=58&text=TOOLS%20CHANGE.%20CURIOSITY%20DOESN%27T.&fontSize=22&fontColor=F5EFE6" width="100%"/>
 
 **AI / Backend**
 
@@ -81,42 +166,30 @@ I'm an Agentic AI developer specializing in building production-grade LLM applic
 <img src="https://img.shields.io/badge/Docker-4A1420?style=flat&logo=docker&logoColor=F5EFE6" alt="Docker" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=Selected%20Work&fontSize=22&fontColor=F5EFE6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=58&text=CURRENT%20FOCUS&fontSize=22&fontColor=F5EFE6" width="100%"/>
 
-**CiteSource** — RAG citation engine (flagship project)
-End-to-end retrieval system with citation grounding, tuned match thresholds, deployed on Railway, frontend via Lovable.
+- 🚀 Growing **Autonomix** into a recognized Agentic AI freelance brand
+- 📝 Converting proof-of-work projects (Techo Digital FTE, OpsBridge) into client-facing case studies
+- 🧠 Deepening expertise in multi-agent orchestration and production RAG evaluation
+- 🔍 Exploring underserved automation niches in the Pakistani market
 
-**OpsBridge** — Multi-store e-commerce operations platform
-Four-role system (Management / Agent / Supplier / Client) with relay-based communication workflows, built as a clickable prototype via Antigravity.
-
-**Techo Digital FTE** — Agentic "Digital Full-Time Employee" system
-12-module architecture with an approval-first safety model and human-in-the-loop orchestration, built for Techo Solution.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=GitHub%20Stats&fontSize=22&fontColor=F5EFE6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=58&text=LET%27S%20CONNECT&fontSize=22&fontColor=F5EFE6" width="100%"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abubaker-Autonomix&show_icons=true&title_color=F5EFE6&icon_color=C9A96A&text_color=D6C9B8&bg_color=2A1218&border_color=800020" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubaker-Autonomix&layout=compact&title_color=F5EFE6&text_color=D6C9B8&bg_color=2A1218&border_color=800020" height="160"/>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=Current%20Focus&fontSize=22&fontColor=F5EFE6" width="100%"/>
+I work with founders, agencies, and teams that need a reliable Agentic AI partner for RAG pipelines, voice AI agents, n8n automation, and full-stack AI apps.
 
-- Growing **Autonomix** into a recognized Agentic AI freelance brand
-- Converting proof-of-work projects (Techo Digital FTE, OpsBridge) into client-facing case studies
-- Deepening expertise in multi-agent orchestration and production RAG evaluation
-- Exploring underserved automation niches in the Pakistani market
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=55&text=Let%27s%20Work%20Together&fontSize=22&fontColor=F5EFE6" width="100%"/>
-
-I work with founders, agencies, and teams that need a reliable Agentic AI partner for:
-
-- RAG pipelines and knowledge retrieval systems
-- Voice AI agents and conversational automation
-- n8n workflow automation
-- Full-stack AI application development
+<p>
+<a href="https://www.piaic.org/"><img src="https://img.shields.io/badge/PIAIC-F5EFE6?style=flat&logoColor=800020" alt="PIAIC" /></a>
+<a href="https://github.com/Abubaker-Autonomix"><img src="https://img.shields.io/badge/GitHub-800020?style=flat&logo=github&logoColor=F5EFE6" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/abubaker-agentic/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=flat&logo=linkedin&logoColor=F5EFE6" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abubakermaqsood.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-800020?style=flat&logo=gmail&logoColor=F5EFE6" alt="Email" /></a>
+</p>
 
 **Fiverr:** abubaker5431 · **Upwork:** Top-rated profile
 
 *Build with agents. Ship with intent.*
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A1420,100:800020&height=120&section=footer" width="100%"/>
