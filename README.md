@@ -1,104 +1,28 @@
-<div align="center">
+![Intro](./assets/hero.svg?v=1)
+![About](./assets/about-life.svg?v=1)
+![Stack](./assets/stack.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=1)
+![Connect](./assets/connect.svg?v=1)
 
-# 👋 Hey, I'm Abu Baker
+## Featured Projects
 
-### Agentic AI Developer
+| Project | What it is | Links |
+|---|---|---|
+| **CiteSource** | RAG citation engine — end-to-end retrieval with citation grounding, tuned match thresholds, Railway deploy, Lovable frontend. | [REPO URL] |
+| **OpsBridge** | Multi-store e-commerce ops platform — four-role system (Management / Agent / Supplier / Client) with relay-based communication workflows. | [REPO URL] |
+| **Techo Digital FTE** | Agentic "Digital Full-Time Employee" — 12-module architecture with approval-first safety model and human-in-the-loop orchestration. | [REPO URL] |
 
-**Building Autonomous AI Agents that Think, Plan & Execute.**
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abubaker--autonomix-292624?style=for-the-badge&logo=github&logoColor=F5EFE3)](https://github.com/Abubaker-autonomix)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm an **Agentic AI Developer** focused on building intelligent systems that can reason, plan, use tools, and execute real-world tasks.
-
-I enjoy turning complex workflows into practical AI-powered automation and creating products that feel simple, useful, and polished.
-
-> **Think. Plan. Execute. Automate.**
-
----
-
-## 🧠 What I Build
-
-- 🤖 Autonomous AI Agents
-- 🔄 AI Business Automation
-- 🧩 Multi-Agent Workflows
-- 🛠️ AI Tools & Integrations
-- 📚 RAG & Knowledge-Based AI
-- 💬 AI Chatbots & Assistants
-- ⚡ API & Workflow Automation
+- [LinkedIn](https://www.linkedin.com/in/abubaker-agentic/)
+- [Instagram](https://www.instagram.com/agentic_ai.dev)
+- [Fiverr](https://www.fiverr.com/abubaker5431)
+- [Upwork](https://www.upwork.com/freelancers/~017c871e4793213e63)
+- [Email](mailto:abubakermaqsood.dev@gmail.com)
+- [GitHub](https://github.com/Abubaker-Autonomix)
+- [YouTube]([YOUTUBE URL])
+- [Topmate]([TOPMATE URL])
 
 ---
 
-## 🧰 Tech Stack
-
-**AI & Automation**
-
-`Agentic AI` `LLMs` `RAG` `AI Agents` `Prompt Engineering` `Automation`
-
-**Development**
-
-`Python` `JavaScript` `Node.js` `APIs` `Git` `GitHub`
-
-**Tools & Platforms**
-
-`OpenAI` `Gemini` `n8n` `Make` `ManyChat` `Voiceflow`
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🤖 **AI Automation Systems** | Intelligent business workflows powered by AI agents and automation. |
-| 🧠 **Knowledge API** | RAG-based knowledge system that answers questions from uploaded documents with source citations. |
-| ⚙️ **Agentic AI Workflows** | Autonomous workflows designed to reason, plan, use tools, and complete multi-step tasks. |
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abubaker-autonomix&show_icons=true&hide_border=true&bg_color=F5EFE3&title_color=7A263A&text_color=292624&icon_color=B65A32)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubaker-autonomix&layout=compact&hide_border=true&bg_color=F5EFE3&title_color=7A263A&text_color=292624)
-
-</div>
-
----
-
-## 🎯 Currently
-
-🔭 Building **AI agents and automation systems**
-
-🌱 Exploring **agentic workflows, RAG, MCP, and autonomous execution**
-
-💡 Interested in turning repetitive business processes into intelligent systems
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in **AI agents, automation, SaaS, or intelligent workflows**, feel free to connect.
-
-<div align="center">
-
-### Build something intelligent.  
-### Automate something meaningful.
-
-**`AI × Automation × Agents`**
-
-</div>
-
----
-
-<div align="center">
-
-**Designed with a warm cream, charcoal, wine-red & burnt-orange visual identity.**
-
-</div>
+<sub>Profile built with Udit Gupta's Profile Playbook · art direction: deep navy <code>#070b16</code>, electric blue <code>#247bff</code>, crimson <code>#ff354f</code> · fonts: Space Grotesk + JetBrains Mono (SIL OFL 1.1, embedded as base64 WOFF2 — no network requests)</sub>
